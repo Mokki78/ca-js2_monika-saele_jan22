@@ -1,0 +1,71 @@
+.log-in-form {
+  transform: translatex(0px);
+}
+
+.register-form {
+  transform: translatex(0´255px);
+}
+
+.posts-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 80%;
+  color: white;
+  height: auto;
+  position: relative;
+
+  gap: 20px;
+  background-color: black;
+  padding: 1rem;
+  margin-top: 60px;
+  gap: 30px;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.card-image {
+  display: flex;
+  width: 100%;
+  height: 300px;
+
+  background-repeat: no-repeat;
+}
+
+.card-body {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  line-height: 100px;
+  text-decoration: none;
+}
+
+.card-title {
+  display: flex;
+  width: 100%;
+  line-height: 100px;
+  text-align: center;
+  font-family: "Mr Dafoe";
+  font-size: 3rem;
+  margin: 0 auto;
+  background-color: lightgrey;
+}
+
+.profile-container {
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 80%;
+  color: white;
+  height: auto;
+  position: relative;
+
+  gap: 20px;
+  background-color: black;
+  padding: 1rem;
+  margin-top: 60px;
+  gap: 30px;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
